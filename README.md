@@ -4,7 +4,7 @@
 ED9B 8F88 BD92 824F F96A  2213 5E45 FB64 3F70 92CF
 ```
 <p align="left">
-<h4>&#8226; <a href="https://raw.githubusercontent.com/oluceps/oluceps/key/key.asc" title="public key">pub key</a></h4>
+<h4>&#8226; <a href="https://raw.githubusercontent.com/oluceps/oluceps/key/key.asc" title="public key">KEY</a></h4>
 </p>  
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluceps)](https://github.com/anuraghazra/github-readme-stats)-->  
