@@ -12,8 +12,7 @@
 ![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/languages.svg)
 ### Contact
-+ [Matrix](https://matrix.to/#/@sammulat:matrix.org)
-+ [Telegram](https://t.me/Secpm_bot)
++ [Telegram](https://t.me/Secpm_bot) | <a href="mailto:i@oluceps.uk">Email</a> | [Matrix](https://matrix.to/#/@sammulat:matrix.org)
 
 <!--<p align="center">
   <img width="400" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluceps&layout=compact&hide=Nix,Nu,Lua,javascript,html,CMake,Makefile,CSS,cpp,shell">
