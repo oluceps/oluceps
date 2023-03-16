@@ -12,7 +12,7 @@
    <summary><h6>Contact</h6></summary> • 
    <a href="https://t.me/Secpm_bot">Telegram</a>
    <br /> • 
-   <a href="mailto:i@oluceps.uk">Email</a>
+   <a href="mailto:gh@oluceps.uk">Email</a>
    <br /> • 
    <a href="https://matrix.to/#/@sammulat:matrix.org">Matrix</a>
    <br /> • 
