@@ -5,7 +5,7 @@
 <a href="https://github.com/oluceps/github-stats-transparent">  
 
 ![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/overview.svg)
-<!-- [](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/languages.svg)-->
+![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/languages.svg)
  
  
   <details> 
