@@ -27,6 +27,4 @@
    <a href="mailto:gh@oluceps.uk">Email</a>
    <br /> • 
    <a href="https://matrix.to/#/@sammulat:matrix.org">Matrix</a>
-   <br /> • 
-   <a href="https://github.com/oluceps/oluceps/issues/new">Github</a> 
   </details> 
