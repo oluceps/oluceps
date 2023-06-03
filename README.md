@@ -19,7 +19,7 @@
 <!--
  ![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/languages.svg)
  -->
- 
+ <!--
   <details> 
    <summary><h6>Contact</h6></summary> • 
    <a href="https://t.me/Secpm_bot">Telegram</a>
@@ -28,3 +28,5 @@
    <br /> • 
    <a href="https://matrix.to/#/@sammulat:matrix.org">Matrix</a>
   </details> 
+
+ -->
