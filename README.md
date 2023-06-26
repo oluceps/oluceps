@@ -6,7 +6,7 @@
  
  
 
-![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/overview.svg)
+<!--![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/overview.svg) -->
  
  
  <!--
