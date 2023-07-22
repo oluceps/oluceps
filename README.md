@@ -4,7 +4,7 @@
 
 <!--<a href="https://github.com/oluceps/github-stats-transparent">  -->
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluceps&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluceps&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--![](https://raw.githubusercontent.com/oluceps/github-stats-transparent/output/generated/overview.svg) -->
  
