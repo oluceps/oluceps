@@ -1,4 +1,4 @@
-#### PGP Fingerprint
+#### PGP Key ID
  <p align="left"> </p>
   <h5>• <code><a href="https://raw.githubusercontent.com/oluceps/oluceps/key/key.asc" title="PGP public key">ED9B 8F88 BD92 824F F96A 2213 5E45 FB64 3F70 92CF</a></code> </h5> 
   <p></p> 
