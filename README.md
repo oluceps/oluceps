@@ -1,4 +1,4 @@
-#### Signature Key ID
+#### Signature Key
 <p align="left"></p>
 <h5>• <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Signature ID">74B2AF4537744B9</a></code></h5> 
 <p></p>
