@@ -5,7 +5,7 @@
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=oluceps&show_icons=true&count_private=true&icon_color=B5CAA0&title_color=B5CAA0)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=oluceps&show_icons=true&count_private=true&icon_color=B5CAA0&title_color=B5CAA0)-->
 <!--<a href="https://github.com/oluceps/github-stats-transparent">  -->
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluceps&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -34,3 +34,4 @@
   </details> 
 
  -->
+[![GitHub Roast](https://githubroast.dev/api/card/oluceps?theme=light)](https://githubroast.dev/u/oluceps)
