@@ -1,11 +1,9 @@
 [![GitHub Roast score badge](https://ghfind.com/api/badge/oluceps)](https://ghfind.com/u/oluceps?ref=badge)
 
 
-#### Signature Key
-<p align="left"></p>
-<h5>• <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Signature ID">74B2AF4537744B9</a></code></h5> 
-<p></p>
+Signature Key • <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Signature ID">74B2AF4537744B9</a></code>
 
+ASN • <code><a href="https://dn42.nyaw.xyz" title="dn42 ASN">AS4242420291</a></code>
 
 
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=oluceps&show_icons=true&count_private=true&icon_color=B5CAA0&title_color=B5CAA0)-->
