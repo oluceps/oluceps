@@ -1,4 +1,4 @@
-[![GitHub Roast score badge](https://ghfind.com/api/badge/oluceps)](https://ghfind.com/u/oluceps?ref=badge)
+<!--[![GitHub Roast score badge](https://ghfind.com/api/badge/oluceps)](https://ghfind.com/u/oluceps?ref=badge)-->
 
 
 Minisign PubKey [V] • <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Signature ID">74B2AF4537744B9</a></code>
