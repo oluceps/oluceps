@@ -5,7 +5,7 @@ Minisign PubKey [V] • <code><a href="https://blog.nyaw.xyz/api/minisign" title
 
 OpenPGP (v6) [E/V] • <code><a href="https://raw.githubusercontent.com/oluceps/oluceps/refs/heads/main/public.asc" title="OpenPGP Fingerprint">9F164A1AA6437ED91E85C721AAE71AD1DA532B733DC9AD8B776BB034802CB740</a></code>
 
-Age Recipient (Require [Yubikey Plugin](https://github.com/str4d/age-plugin-yubikey)) [E] • <code>age1yubikey1q2aucts9c72rmvnysgczu2zuvtvysmg2hkpvqld9qt5kyvyj6dd8gaujk62</code>
+Age Receipient (Require [Yubikey Plugin](https://github.com/str4d/age-plugin-yubikey)) [E] • <code>age1yubikey1q2aucts9c72rmvnysgczu2zuvtvysmg2hkpvqld9qt5kyvyj6dd8gaujk62</code>
 
 DN42 ASN • <code><a href="https://dn42.nyaw.xyz" title="dn42 ASN">4242420291</a></code>
 
