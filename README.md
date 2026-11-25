@@ -1,7 +1,7 @@
 <!--[![GitHub Roast score badge](https://ghfind.com/api/badge/oluceps)](https://ghfind.com/u/oluceps?ref=badge)-->
 
 
-Minisign PubKey [V] • <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Signature ID">74B2AF4537744B9</a></code>
+Minisign PubKey [V] • <code><a href="https://blog.nyaw.xyz/api/minisign" title="Minisign Pubkey Full Text">RWS5RHdT9CpLB37kQdM+tHwW8xwOSwsA3xExt6PUt1X3VR0w3e7DRE9/</a></code>
 
 OpenPGP (v6) [E/V] • <code><a href="https://raw.githubusercontent.com/oluceps/oluceps/refs/heads/main/public.asc" title="OpenPGP Fingerprint">9F164A1AA6437ED91E85C721AAE71AD1DA532B733DC9AD8B776BB034802CB740</a></code>
 
